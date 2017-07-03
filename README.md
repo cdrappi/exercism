@@ -1,2 +1,2 @@
-# functional
-learning functional programming
+# exercism
+work on problems at http://exercism.io/
